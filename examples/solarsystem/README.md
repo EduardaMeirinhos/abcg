@@ -4,7 +4,7 @@ Autora: **Eduarda Meirinhos - RA 11076516**
 
 **Link do repositório do código-fonte:** https://github.com/EduardaMeirinhos/abcg/tree/main/examples/solarsystem
 
-**Link para uma página Web com a aplicação rodando em WebAssembly:** https://eduardameirinhos.github.io/play-solar-system/
+**Link para uma página Web com a aplicação rodando em WebAssembly:** https://eduardameirinhos.github.io/play-solar-system/solar-system/
 
 Este repositório contém o código-fonte da implementação de uma simulação interativa do Sistema Solar, desenvolvido como Projeto 3 para a disciplina de Computação Gráfica, em 2021.1, ministrada pelo Prof. Harlen Batagelo.
 
